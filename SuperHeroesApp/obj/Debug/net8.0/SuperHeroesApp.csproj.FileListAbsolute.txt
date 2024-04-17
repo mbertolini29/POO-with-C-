@@ -1,0 +1,14 @@
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\POO with C#\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.exe
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\POO with C#\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.deps.json
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\POO with C#\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.runtimeconfig.json
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\POO with C#\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.dll
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\POO with C#\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.pdb
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\POO with C#\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\POO with C#\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.AssemblyInfoInputs.cache
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\POO with C#\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.AssemblyInfo.cs
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\POO with C#\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\POO with C#\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.dll
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\POO with C#\SuperHeroesApp\obj\Debug\net8.0\refint\SuperHeroesApp.dll
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\POO with C#\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.pdb
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\POO with C#\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.genruntimeconfig.cache
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\POO with C#\SuperHeroesApp\obj\Debug\net8.0\ref\SuperHeroesApp.dll

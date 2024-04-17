@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\POO with C#\\SuperHeroesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C936AA3-4010-49FF-9D31-1EC5F0D54F73}|SuperHeroesApp.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\poo with c#\\superheroesapp\\interfaces\\isuperhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C936AA3-4010-49FF-9D31-1EC5F0D54F73}|SuperHeroesApp.csproj|solutionrelative:interfaces\\isuperhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C936AA3-4010-49FF-9D31-1EC5F0D54F73}|SuperHeroesApp.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\poo with c#\\superheroesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C936AA3-4010-49FF-9D31-1EC5F0D54F73}|SuperHeroesApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C936AA3-4010-49FF-9D31-1EC5F0D54F73}|SuperHeroesApp.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\poo with c#\\superheroesapp\\showinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C936AA3-4010-49FF-9D31-1EC5F0D54F73}|SuperHeroesApp.csproj|solutionrelative:showinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C936AA3-4010-49FF-9D31-1EC5F0D54F73}|SuperHeroesApp.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\poo with c#\\superheroesapp\\models\\antihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C936AA3-4010-49FF-9D31-1EC5F0D54F73}|SuperHeroesApp.csproj|solutionrelative:models\\antihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C936AA3-4010-49FF-9D31-1EC5F0D54F73}|SuperHeroesApp.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\poo with c#\\superheroesapp\\models\\superpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C936AA3-4010-49FF-9D31-1EC5F0D54F73}|SuperHeroesApp.csproj|solutionrelative:models\\superpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C936AA3-4010-49FF-9D31-1EC5F0D54F73}|SuperHeroesApp.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\poo with c#\\superheroesapp\\models\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C936AA3-4010-49FF-9D31-1EC5F0D54F73}|SuperHeroesApp.csproj|solutionrelative:models\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C936AA3-4010-49FF-9D31-1EC5F0D54F73}|SuperHeroesApp.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\poo with c#\\superheroesapp\\models\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C936AA3-4010-49FF-9D31-1EC5F0D54F73}|SuperHeroesApp.csproj|solutionrelative:models\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\POO with C#\\SuperHeroesApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\POO with C#\\SuperHeroesApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIAwwBgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:23:44.588Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowInfo.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\POO with C#\\SuperHeroesApp\\ShowInfo.cs",
+              "RelativeDocumentMoniker": "ShowInfo.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\POO with C#\\SuperHeroesApp\\ShowInfo.cs",
+              "RelativeToolTip": "ShowInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:22:14.674Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISuperHero.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\POO with C#\\SuperHeroesApp\\Interfaces\\ISuperHero.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISuperHero.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\POO with C#\\SuperHeroesApp\\Interfaces\\ISuperHero.cs",
+              "RelativeToolTip": "Interfaces\\ISuperHero.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:14:11.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\POO with C#\\SuperHeroesApp\\Models\\Hero.cs",
+              "RelativeDocumentMoniker": "Models\\Hero.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\POO with C#\\SuperHeroesApp\\Models\\Hero.cs",
+              "RelativeToolTip": "Models\\Hero.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAhwBAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:29:10.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SuperHero.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\POO with C#\\SuperHeroesApp\\Models\\SuperHero.cs",
+              "RelativeDocumentMoniker": "Models\\SuperHero.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\POO with C#\\SuperHeroesApp\\Models\\SuperHero.cs",
+              "RelativeToolTip": "Models\\SuperHero.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwDgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:33:34.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AntiHero.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\POO with C#\\SuperHeroesApp\\Models\\AntiHero.cs",
+              "RelativeDocumentMoniker": "Models\\AntiHero.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\POO with C#\\SuperHeroesApp\\Models\\AntiHero.cs",
+              "RelativeToolTip": "Models\\AntiHero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:25:58.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Superpower.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\POO with C#\\SuperHeroesApp\\Models\\Superpower.cs",
+              "RelativeDocumentMoniker": "Models\\Superpower.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\POO with C#\\SuperHeroesApp\\Models\\Superpower.cs",
+              "RelativeToolTip": "Models\\Superpower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:33:51.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
